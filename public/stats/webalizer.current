@@ -1,0 +1,293 @@
+<<<<<<< HEAD
+# Webalizer V2.23-08 Incremental Data - 08/01/2022 17:28:06
+2022 8 1 17 28 6
+32 21 2 3 1 2 1436456 32 2 0 0 0
+2 26 54 1 1
+32 21 1436456 2 32 2 0 0
+=======
+# Webalizer V2.23-08 Incremental Data - 08/06/2022 07:04:20
+2022 8 6 7 4 20
+2171 2108 7 28 4 4 102218949 287 11 0 0 0
+2 27 489 1 6
+32 21 1436456 2 32 2 0 0
+1563 1520 71572790 2 199 4 0 0
+>>>>>>> new_deployment
+0 0 0 0 0 0 0 0
+231 230 10699949 2 17 2 0 0
+316 309 16617118 2 35 2 0 0
+29 28 1892636 2 4 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+<<<<<<< HEAD
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 604751 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+=======
+>>>>>>> new_deployment
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+300 290 17912420 31 0 0
+170 163 7080358 31 0 0
+3 1 621639 2 0 0
+27 27 1875317 3 0 0
+261 258 7543640 24 0 0
+322 318 16654163 35 0 0
+68 50 3330314 39 0 0
+300 294 14044568 38 0 0
+614 611 28809819 48 0 0
+75 75 3515006 5 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 4 7111 5 0 0
+26 17 824594 26 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 4 7111 5 0 0
+26 17 824594 26 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+21
+1
+0
+0
+<<<<<<< HEAD
+=======
+2108
+3
+>>>>>>> new_deployment
+0
+0
+0
+0
+0
+0
+0
+<<<<<<< HEAD
+0
+0
+0
+0
+0
+0
+=======
+2
+0
+3
+0
+0
+2
+0
+0
+0
+2
+>>>>>>> new_deployment
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+<<<<<<< HEAD
+0
+0
+10
+=======
+51
+>>>>>>> new_deployment
+0
+0
+0
+0
+0
+# -urls- 
+<<<<<<< HEAD
+/api/user-age
+0 7 0 12637 0 0 0 0
+/api/age
+0 3 0 1230 0 0 0 0
+/api/chart
+0 11 0 32140 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.37.133.183
+0 31 21 831705 1 1659374886 0 0
+/api/chart
+=======
+/images/cap.png
+1 129 0 389781 0 0 0 0
+/images/domain.jpg
+1 6 0 174006 0 0 0 0
+/images/thumbsup.png
+1 129 0 293032 0 0 0 0
+/api/api/authorise
+0 2 0 781 0 0 0 0
+/images/header.jpg
+1 134 0 2695168 0 0 0 0
+/images/cup.png
+1 131 0 343161 0 0 0 0
+/images/boy.png
+1 129 0 269038 0 0 0 0
+/api/user-age
+0 8 0 14447 0 0 0 0
+/images/kite.png
+1 129 0 641720 0 0 0 0
+/images/fine.png
+1 131 0 3130449 0 0 0 0
+/_ignition/health-check
+0 1 0 269 0 0 0 0
+/images/coginitive.png
+1 131 0 23635616 0 0 0 0
+/api/age
+0 13 0 5053 1 1 0 0
+/api/day-activity/13
+0 5 0 216482 0 0 0 0
+/images/logo.png
+1 129 0 9076514 0 0 0 0
+/favicon.ico
+0 41 0 11762 0 0 0 0
+/api/chart
+0 12 0 34341 0 0 0 0
+/api/day-activity/18
+0 2 0 53914 0 0 0 0
+/images/helicopter.png
+1 130 0 1136959 0 0 0 0
+/images/smile.png
+1 129 0 324249 0 0 0 0
+/images/footer.png
+1 135 0 246801 0 0 0 0
+/images/compass.png
+1 131 0 2071444 0 0 0 0
+/
+0 177 0 36954009 8 4 0 0
+/images/header.png
+1 8 0 392163 0 0 0 0
+/api/user-progress
+0 3 0 122903 0 0 0 0
+/api/activity-calendar
+0 4 0 8814 0 0 0 0
+/api/day-activity/24
+0 1 0 55761 0 0 0 0
+/images/gross.jpg
+1 131 0 4026619 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+180.151.224.140
+0 20 19 5092577 2 1659618524 0 0
+/
+180.151.23.212
+0 286 243 37730352 4 1659444281 0 0
+/
+180.151.238.135
+0 36 29 9216978 2 1659681006 0 0
+/api/age
+157.37.133.183
+0 31 21 831705 1 1659374886 0 0
+/api/chart
+180.151.227.98
+0 5 4 1015653 1 1659769460 0 0
+/
+173.82.95.119
+0 1792 1792 47726933 0 0 0 0
+-
+>>>>>>> new_deployment
+119.82.70.133
+0 1 0 604751 1 1659329781 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+<<<<<<< HEAD
+157.37.133.183
+0 31 21 831705 1 1659374886 0 0
+/api/chart
+119.82.70.133
+0 1 0 604751 1 1659329781 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 32
+# End Of Table - referrers
+# -agents- 
+PostmanRuntime/7.29.2
+0 1
+=======
+180.151.227.98
+0 5 4 1015653 1 1659769460 0 0
+/
+173.82.95.119
+0 24 24 876983 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://compasstot2.ebslon.com/
+0 93
+- (Direct Request)
+0 2076
+http://compasstot2.ebslon.com/api/user-progress
+0 1
+http://compasstot2.ebslon.com/api/day-activity/24
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+0 261
+PostmanRuntime/7.29.2
+0 57
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 30
+>>>>>>> new_deployment
+PostmanRuntime/7.29.0
+0 31
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
